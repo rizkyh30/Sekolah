@@ -12,4 +12,4 @@ class Cart extends BaseController
             echo view('cart');
             echo view('part/footer');
         }
-}
+    }
